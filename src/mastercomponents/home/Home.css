@@ -1,0 +1,12 @@
+.mynavabar{
+    height: 70px;
+    }
+    
+    .mysidebar{
+        height: calc(100vh - 70px);
+        padding: 0px;
+    }
+    
+    .mymaincontent{
+        height: calc(100vh - 70px);
+    }

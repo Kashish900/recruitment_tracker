@@ -1,0 +1,30 @@
+/* HomePage.css */
+.homepage-container {
+    background-image: url('../../images/backgroundimage.jpeg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh; /* Full viewport height */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white; /* White text color for contrast */
+    text-align: center;
+  }
+  
+  .homepage-content {
+    background: rgba(0, 0, 0, 0.5); /* Semi-transparent background for better text readability */
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .homepage-content h1 {
+    font-size: 3em;
+    margin: 0;
+  }
+  
+  .homepage-content h2 {
+    font-size: 2em;
+    margin: 0;
+    margin-top: 10px;
+  }
+  
